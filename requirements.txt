@@ -1,0 +1,8 @@
+torch==2.1.2
+torchvision==0.16.2
+torchaudio==2.1.2
+transformers==4.37.2
+sentencepiece==0.1.99
+deepseek==1.0.0
+uvicorn==0.29.0
+fastapi==0.110.0
